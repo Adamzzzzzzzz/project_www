@@ -1,3 +1,10 @@
-header {
-    color:red;
+span {
+  font-weight: bold;
 }
+
+header {
+  height: 80vh;
+  background-color: rgb(39, 121, 189);
+}
+
+/*# sourceMappingURL=style.css.map */
